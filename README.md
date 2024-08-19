@@ -1,5 +1,5 @@
 
-# SuperStore Analytics Dashboard
+# SuperStore Analytics Report
 
 A brief description of what this project does and who it's for SuperStore Analytics Dashboard
 It shows the matrices created with the help of SuperStore Analytics Dashboard data. It has different sections that elaborates about the parameters of the total customers.
